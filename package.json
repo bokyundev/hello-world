@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello-world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bokyundev/hello-world.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "bokyundev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bokyundev/hello-world/issues"
+  },
+  "homepage": "https://github.com/bokyundev/hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
